@@ -1,23 +1,18 @@
-DOCTYPE html>
-
-<html lanq="en">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width,
-
-initial-scale=1.0">
-
-<title>My First Page</title>
-
-<style>
-
-}
-
-body {
-
-font-family: Arial, sans-serif;
-
-margin: 20px;
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>مرحبًا بك في موقعي!</h1>
+    <p>هذه صفحة HTML بسيطة للبدء.</p>
+</body>
+</html>
